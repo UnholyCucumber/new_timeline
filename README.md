@@ -1,1 +1,2 @@
-# new_timeline
+# Updated "About Me" timeline
+* Based on tutorial by Envato Tuts+
